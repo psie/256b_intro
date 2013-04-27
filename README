@@ -1,0 +1,5 @@
+A 256 byte long intro written in x86 asm for WeCan demoparty.
+Runs quite well from DOSBox, unfortunately, as reported, not 
+so well under WinXP and DOS. Uses MCGA mode, 'loads' BIOS font.
+
+Please visit http://pouet.net/prod.php?which=60244 for refrence.
